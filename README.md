@@ -70,6 +70,7 @@ print(' Char | Huffman code ')
 print('----------------------')
 for (char, frequency) in freq:
     print('%-4r|%12s'%(char,huffmanCode[char]))
+  ```
 ## Output:
 
 ![](output.png)
